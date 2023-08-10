@@ -1,6 +1,7 @@
 package app;
 
 //This is sample commit
+//This is sample commit 1
 public class Calculator {
 	CalculatorService service;
 	
