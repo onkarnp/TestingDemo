@@ -6,18 +6,18 @@ import org.junit.Test;
 
 public class CalcultorNewTest {
 
-	@Test
-	public void test() {
-		fail("Not yet implemented");
-	}
+//	@Test
+//	public void test() {
+//		fail("Not yet implemented");
+//	}
 
-	@Test
-	public void test2() {
-		fail("Not yet implemented");
-	}
+//	@Test
+//	public void test2() {
+//		fail("Not yet implemented");
+//	}
 	
-	@Test
-	public void test3() {
-		fail("Not yet implemented");
-	}
+//	@Test
+//	public void test3() {
+//		fail("Not yet implemented");
+//	}
 }
